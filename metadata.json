@@ -1,6 +1,6 @@
 {
-    "name": "Example Token",
-    "symbol": "EXMPL",
-    "description": "Example token from Solana Making a Token guide.",
+    "name": "Winning Token",
+    "symbol": "WIN",
+    "description": "Winning token for Solana Making money.",
     "image": "https://raw.githubusercontent.com/C-C2025/Winning-Token/main/Win-token.png"
   }
